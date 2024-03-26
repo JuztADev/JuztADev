@@ -1,4 +1,6 @@
-#Hi 👋, I’m Jhostin
+<h2 style="text-align: center">Hi, I'm Jhostin</h2>
+
+
 
 Junior Developer with experience in both backend and frontend development for web pages and applications, using a variety of technologies. 
 I possess strong knowledge in handling both relational and non-relational databases, as well as experience in implementing agile methodologies for project management.
